@@ -1,2 +1,2 @@
 # My-First-Github
-this i just a trial to faill and try again
+this is just a trial to faill and try again
